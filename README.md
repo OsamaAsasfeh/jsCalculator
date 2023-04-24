@@ -18,7 +18,7 @@ You can try the calculator online [here](https://osamaasasfeh.github.io/jsCalcul
 
 ## Screenshots
 
-![Calculator screenshot](screenshots/calculator.png)
+![Calculator screenshot](/screenshots/calculator.png)
 
 ## Installation
 
