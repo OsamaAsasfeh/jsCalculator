@@ -14,11 +14,11 @@ You can try the calculator online [here](https://myusername.github.io/js-calcula
 - Division
 - Decimal point support
 - Clear button to reset the calculator
-- Keyboard support
+
 
 ## Screenshots
 
-![Calculator screenshot](/screenshots/calculator.png)
+![Calculator screenshot](screenshots/calculator.png)
 
 ## Installation
 
