@@ -18,7 +18,7 @@ You can try the calculator online [here](https://myusername.github.io/js-calcula
 
 ## Screenshots
 
-![Calculator screenshot](screenshots/calculator.png)
+![Calculator screenshot](/screenshots/calculator.png)
 
 ## Installation
 
