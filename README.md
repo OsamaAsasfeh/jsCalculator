@@ -4,7 +4,7 @@ This is a simple calculator built with HTML, CSS, and JavaScript. It performs ba
 
 ## Demo
 
-You can try the calculator online [here](https://myusername.github.io/js-calculator/).
+You can try the calculator online [here](https://osamaasasfeh.github.io/jsCalculator/).
 
 ## Features
 
@@ -18,7 +18,7 @@ You can try the calculator online [here](https://myusername.github.io/js-calcula
 
 ## Screenshots
 
-![Calculator screenshot](/screenshots/calculator.png)
+![Calculator screenshot](screenshots\calculator.png)
 
 ## Installation
 
